@@ -49,7 +49,7 @@ public class Membro {
 
     private Boolean batizado_aguas;
 
-    private FuncaoMinisterial funcaoMinisterial;
+    private FuncaoMinisterial funcaoMinisterial = FuncaoMinisterial.MEMBRO;
 
     private Boolean batizado_Espirito_Santo;
 
